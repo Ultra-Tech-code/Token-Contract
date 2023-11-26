@@ -4,7 +4,6 @@ BlackadamToken
 ## Description
  A basic ERC-20 token contract named BlackAdamToken, built on the ERC20 contract from OpenZeppelin library.
 The contract inherits from the ERC-20 standard, providing functionalities for a standard fungible token.
-Used in showcasing Error Handling in contract [revert, require, assert]
 
  * ERC-20 Details:
  * - Symbol: BNT
